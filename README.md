@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshay-Choudhary
 - 👀 I’m interested in Machine Learning/Deep Learning 
-- 🌱 I’m currently learning DSA and doing projects of ML/DL
+- 🌱 I’m currently learning DSA, Databases and doing projects of ML/DL
 - 📫 How to reach me -> connect.lakshay@gmail.com
 
 <!---
